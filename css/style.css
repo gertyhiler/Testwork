@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    margin: 20px; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+button {
+    margin-top: 5px;
+}
+.add {
+    width: 100%;
+}
+.col-1, .col-2 {
+    margin-right: 2rem;
+}
+canvas {
+    width: 200px;
+    height: 200px;
+    margin: 2em;
+    border: 1px solid #000;
+}
